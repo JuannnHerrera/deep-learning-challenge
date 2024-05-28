@@ -10,7 +10,7 @@ This repository contains the code and analysis for the deep learning challenge.
 - `generate_report.py`: Script to generate a report based on model training and optimization results.
 - `AlphabetSoupCharity.h5`: Initial trained model.
 - `AlphabetSoupCharity_Optimization.h5`: Optimized trained model.
-- `report/`: Directory containing the generated report and images.
+- `report/`: Directory containing the generated report.
   - `report.md`: Final report summarizing the analysis.
 
 ##
