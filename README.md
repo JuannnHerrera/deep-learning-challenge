@@ -1,3 +1,31 @@
+# Deep Learning Challenge
+
+This repository contains the code and analysis for the deep learning challenge.
+
+## Project Structure
+
+- `setup_and_run.py`: Script to set up the environment and run the project.
+- `created_code.py`: Initial model training script.
+- `AlphabetSoupCharity_Optimization.py`: Optimized model training script.
+- `AlphabetSoupCharity.h5`: Initial trained model.
+- `AlphabetSoupCharity_Optimization.h5`: Optimized trained model.
+- `report/`: Contains the analysis report.
+  - `report.md`: The markdown report.
+  - `images/`: Folder for images used in the report.
+- `data/charity_data.csv`: Dataset used in the analysis.
+
+## Setup and Run
+
+1. Clone the repository.
+2. Run `setup_and_run.py` to set up the environment and execute the scripts.
+
+```bash
+git clone https://github.com/yourusername/deep-learning-challenge.git
+cd deep-learning-challenge
+python setup_and_run.py
+
+
+
 The nonprofit foundation Alphabet Soup wants a tool that can help it select the applicants for funding with the best chance of success in their ventures. With your knowledge of machine learning and neural networks, you’ll use the features in the provided dataset to create a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup.
 
 From Alphabet Soup’s business team, you have received a CSV containing more than 34,000 organizations that have received funding from Alphabet Soup over the years. Within this dataset are a number of columns that capture metadata about each organization, such as:
