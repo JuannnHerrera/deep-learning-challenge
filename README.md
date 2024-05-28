@@ -9,10 +9,6 @@ This repository contains the code and analysis for the deep learning challenge.
 - `AlphabetSoupCharity_Optimization.py`: Optimized model training script.
 - `AlphabetSoupCharity.h5`: Initial trained model.
 - `AlphabetSoupCharity_Optimization.h5`: Optimized trained model.
-- `report/`: Contains the analysis report.
-  - `report.md`: The markdown report.
-  - `images/`: Folder for images used in the report.
-- `data/charity_data.csv`: Dataset used in the analysis.
 
 ##
 The nonprofit foundation Alphabet Soup wants a tool that can help it select the applicants for funding with the best chance of success in their ventures. With your knowledge of machine learning and neural networks, you’ll use the features in the provided dataset to create a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup.
